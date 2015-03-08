@@ -1,0 +1,6 @@
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Emploees2\Emploees2\bin\Debug\Emploees2.exe.config
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Emploees2\Emploees2\bin\Debug\Emploees2.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Emploees2\Emploees2\bin\Debug\Emploees2.pdb
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Emploees2\Emploees2\obj\Debug\Emploees2.csprojResolveAssemblyReference.cache
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Emploees2\Emploees2\obj\Debug\Emploees2.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Emploees2\Emploees2\obj\Debug\Emploees2.pdb
